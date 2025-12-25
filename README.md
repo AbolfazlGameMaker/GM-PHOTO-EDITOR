@@ -19,7 +19,7 @@ It features layers, brush & eraser tools, and basic image editing capabilities.
 ## License
 
 © 2025 **AbolfazlGameMaker**  
-Owned by **Golden Moon Studio**  
+Owned by **Golden Moon Studio**
 
 This software is **for personal use only**. Commercial use, sale, rental, or redistribution for profit is strictly prohibited.
 
@@ -29,6 +29,9 @@ You may:
 You may NOT:
 - Sell, rent, or distribute this software commercially.
 - Claim ownership of this software.
+
+**Disclaimer:**  
+Any misuse or illegal use of this software is **the sole responsibility of the user**. Neither the author nor Golden Moon Studio are liable for any consequences.
 
 The software remains the property of **AbolfazlGameMaker** and **Golden Moon Studio**.
 
